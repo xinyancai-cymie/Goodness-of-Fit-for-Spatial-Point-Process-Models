@@ -1,7 +1,9 @@
 # Goodness-of-Fit-for-Spatial-Point-Process-Models
 This dissertation explores methods for assessing the goodness-of-fit (GOF) of spatial point process models, with a focus on Log-Gaussian Cox Processes (LGCPs). Using the Integrated Nested Laplace Approximation (INLA) for simulations, it evaluates several GOF measures—such as Pearson residuals, the Pair Correlation Function (PCF), the K-function, and global metrics like DIC and WAIC—under clustered and non-clustered spatial patterns. The study highlights both the strengths and limitations of these measures, particularly in capturing multi-scale clustering and localized spatial dependencies.
 
-**Data and code for this research are provided below.**
+Data and code for this research are provided below:
+
+**Data**
 
 - 📊 **Earthquake_Events_Data.csv** - Dataset containing information on earthquake events (location, magnitude, date) used for LGCP modeling and spatial analysis.
 
